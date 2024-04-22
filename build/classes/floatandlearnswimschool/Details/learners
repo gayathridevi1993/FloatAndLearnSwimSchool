@@ -1,0 +1,14 @@
+Learner Id,Fullname,Email,Age,Contact,Password,Gender,Grade
+SID01,Oliver,oliver@gmail.com,7,041235618123,pass01,Male,1
+SID02,Olivia,olivia@gmail.com,4,041235628123,pass02,Female,5
+SID03,George,george@gmail.com,5,041235638123,pass03,Male,3
+SID04,Charlotte,charlotte@gmail.com,6,041235648123,pass04,Female,4
+SID05,Isla,isla@gmail.com,9,041235658123,pass05,Female,2
+SID06,Jack,jack@gmail.com,8,041235668123,pass06,Male,5
+SID07,Ella,ella@gmail.com,11,041235678123,pass07,Male,3
+SID08,Amelia,amelia@gmail.com,5,041235688123,pass08,Female,1
+SID09,Noah,noah@gmail.com,4,041235698123,pass09,Male,2
+SID10,Harry,harry@gmail.com,10,041235178123,pass10,Male,4
+SID11,Leo,leo@gmail.com,9,041235278123,pass11,Male,1
+SID12,Oscar,oscar@gmail.com,8,041235378123,pass12,Male,3
+SID13,Isabella,isabella@gmail.com,6,041235478123,pass13,Male,3

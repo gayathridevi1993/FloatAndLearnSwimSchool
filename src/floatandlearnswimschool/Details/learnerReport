@@ -1,0 +1,39 @@
+.................................
+Learner report of month : jun
+.................................
+
+
+Id              : SID01
+Name            : Oliver
+Level           : 1
+Email           : oliver@gmail.com
+Contact         : 041235618123
+Age             : 7
+Gender          : Male
+Total bookings  : 0
+total attends   : 2
+total cancelled : 0
+......................................................................................................................................................................................................
+: Booking Id : Lesson Id  : Lesson Title    : Status   : Lesson Level : Learner Name : Learner Level : Date         : Time       : Trainer Name  : Equipment Needed       : Day        : Lesson Fees : 
+......................................................................................................................................................................................................
+: BID04      : LID43      : Water Aerobics  : Attended :  Level 1     : Oliver       :   Level 1     : 12\Jun\2024  : 5PM - 6PM  : Wilson        : Swimsuit and Kickboard : Wednesday  : $3100.00    :
+: BID05      : LID43      : Water Aerobics  : Attended :  Level 1     : Oliver       :   Level 1     : 12\Jun\2024  : 5PM - 6PM  : Wilson        : Swimsuit and Kickboard : Wednesday  : $3100.00    :
+......................................................................................................................................................................................................
+
+Id              : LID14
+Name            : Tony
+Level           : 4
+Email           : tony@gmail.com
+Contact         : 04165123412
+Age             : 9
+Gender          : Male
+Total bookings  : 0
+total attends   : 2
+total cancelled : 1
+......................................................................................................................................................................................................
+: Booking Id : Lesson Id  : Lesson Title    : Status   : Lesson Level : Learner Name : Learner Level : Date         : Time       : Trainer Name  : Equipment Needed       : Day        : Lesson Fees : 
+......................................................................................................................................................................................................
+: BID01      : LID37      : Triathlon Training : Attended :  Level 4     : Tony         :   Level 4     : 08\Jun\2024  : 2PM - 3PM  : Sarah         : Swimsuit and Floaties : Saturday   : $2800.00    :
+: BID02      : LID31      : Diving Basics   : Attended :  Level 4     : Tony         :   Level 4     : 05\Jun\2024  : 4PM - 5PM  : Sarah         : Swimsuit             : Wednesday  : $2500.00    :
+: BID03      : LID37      : Triathlon Training : Cancelled :  Level 4     : Tony         :   Level 4     : 08\Jun\2024  : 2PM - 3PM  : Sarah         : Swimsuit and Floaties : Saturday   : $2800.00    :
+......................................................................................................................................................................................................
